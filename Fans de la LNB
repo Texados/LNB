@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fans de la LNB</title>
+</head>
+<body>
+    <header class="header">
+        <img src="ruta-a-tu-imagen.jpg" alt="Imagen del encabezado" class="header-img">
+        <div class="header-text">
+            <h1 class="header-title">Página de la Liga Nacional de Básquet</h1>
+            <h2 class="header-subtitle">A continuación tendras toda la información de la actual temporada 2024/25</h2>
+        </div>
+    </header>
+    <nav class="subheader">
+        <ul class="subheader-menu">
+            <li><a href="#teams" class="subheader-item">Equipos</a></li>
+            <li><a href="#tournament" class="subheader-item">Tabla de Posiciones</a></li>
+        </ul>
+    </nav>
+    <section id="teams">
+        <h3>Equipos</h3>
+        <style>
+            table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+            th, td {
+                border: 1px solid black;
+                padding: 8px;
+                text-align: left;
+            }
+            th {
+                background-color: #f2f2f2;
+            }
+        </style>
+        <h4>En esta sección encontrarás todos los Equipos con la lista de jugadores, que disputan esta liga en esta temporada:</h4>
+        
+        <nav class="subheader">
+            <ul class="subheader-menu">
+                <li><a href="#1" class="subheader-item">Argentino</a></li>
+                <li><a href="#2" class="subheader-item">Atenas</a></li>
+                <li><a href="#3" class="subheader-item">Boca</a></li>
+                <li><a href="#4" class="subheader-item">Ferro</a></li>
+                <li><a href="#5" class="subheader-item">Gimnasia</a></li>
+                <li><a href="#6" class="subheader-item">Independiente</a></li>
+                <li><a href="#7" class="subheader-item">Instituto</a></li>
+                <li><a href="#8" class="subheader-item">La Union</a></li>
+                <li><a href="#9" class="subheader-item">Obera</a></li>
+                <li><a href="#10" class="subheader-item">Obras</a></li>
+                
+            </ul>
+        </nav>
+        <nav class="subheader">
+            <ul class="subheader-menu">
+                <li><a href="#11" class="subheader-item">Olimpico</a></li>
+                <li><a href="#12" class="subheader-item">Peñarol</a></li>
+                <li><a href="#13" class="subheader-item">Platense</a></li>
+                <li><a href="#14" class="subheader-item">Quimsa</a></li>
+                <li><a href="#15" class="subheader-item">Regatas</a></li>
+                <li><a href="#16" class="subheader-item">Riachuelo</a></li>
+                <li><a href="#17" class="subheader-item">San Lorenzo</a></li>
+                <li><a href="#18" class="subheader-item">San Martin</a></li>
+                <li><a href="#19" class="subheader-item">Union</a></li>
+                <li><a href="#20" class="subheader-item">Zarate</a></li>
+                
+            </ul>
+        </nav>
+
+        <p>
+            <section id="1">
+            Argentino de Junin<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Capelli, Santiago</td>
+                        <td>3</td>
+                    </tr>
+                    <tr>
+                        <td>Frontera, Ramiro Jeremias</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>Caporaletti, Martino</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>Allende, Tomas Daniel</td>
+                        <td>8</td>
+                    </tr>
+                    <tr>
+                        <td>Dupuy, Ezequiel Mario</td>
+                        <td>9</td>
+                    </tr>
+                    <tr>
+                        <td>Romero, Gonzalo Emmanuel</td>
+                        <td>11</td>
+                    </tr>
+                    <tr>
+                        <td>Torne, Edgardo Ruben</td>
+                        <td>13</td>
+                    </tr>
+                    <tr>
+                        <td>Slider, Jonatan</td>
+                        <td>15</td>
+                    </tr>
+                    <tr>
+                        <td>Gennero, Augusto</td>
+                        <td>17</td>
+                    </tr>
+                    <tr>
+                        <td>Podesta, Fernando Ariel</td>
+                        <td>19</td>
+                    </tr>
+                    <tr>
+                        <td>Fundora Arrechavaleta, Yasmany</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Gomez, Manuel Alejandro</td>
+                        <td>55</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            </section>
+            <section id="2"> 
+            Atenas<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Capelli, Santiago</td>
+                        <td>3</td>
+                    </tr>
+                    <tr>
+                        <td>Frontera, Ramiro Jeremias</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>Caporaletti, Martino</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>Allende, Tomas Daniel</td>
+                        <td>8</td>
+                    </tr>
+                    <tr>
+                        <td>Dupuy, Ezequiel Mario</td>
+                        <td>9</td>
+                    </tr>
+                    <tr>
+                        <td>Romero, Gonzalo Emmanuel</td>
+                        <td>11</td>
+                    </tr>
+                    <tr>
+                        <td>Torne, Edgardo Ruben</td>
+                        <td>13</td>
+                    </tr>
+                    <tr>
+                        <td>Slider, Jonatan</td>
+                        <td>15</td>
+                    </tr>
+                    <tr>
+                        <td>Gennero, Augusto</td>
+                        <td>17</td>
+                    </tr>
+                    <tr>
+                        <td>Podesta, Fernando Ariel</td>
+                        <td>19</td>
+                    </tr>
+                    <tr>
+                        <td>Fundora Arrechavaleta, Yasmany</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Gomez, Manuel Alejandro</td>
+                        <td>55</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            </section>
+            <section id="3">
+            Boca Juniors<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            </section>
+            <section id="4">
+            Ferrocarril Oeste<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            </section>
+            <section id="5">
+            Gimnasia de Comodoro Rivadavia<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            </section>
+            <section id="6">
+            Independiente de Oliva<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            </section>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Instituto"><p></p>
+            Instituto<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de La Unión de Formosa"><p></p>
+            La Unión de Formosa<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Obera TC"><p></p>
+            Obera<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Obras Sanitarias"><p></p>
+            Obras<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Club Ciclista Olimpico La Banda"><p></p>
+            Olimpico<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Peñarol de Mar del Plata"><p></p>
+            Peñarol<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Platense"><p></p>
+            Platense<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Quimsa"><p></p>
+            Quimsa<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Regatas"><p></p>
+            Regatas<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Riachuelo de La Rioja"><p></p>
+            Riachuelo<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de San Lorenzo"><p></p>
+            San Lorenzo<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de San Martin de Corrientes"><p></p>
+            San Martin de Corrientes<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Unión de Santa Fé"><p></p>
+            Unión<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+            <img src="ruta-a-imagen.jpg" alt="Imagen de Zarate Basket"><p></p>
+            Zárate Basket<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jugador</th>
+                        <th>Dorsal</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 2, Columna 1</td>
+                        <td>Fila 2, Columna 2</td>
+                        <td>Fila 2, Columna 3</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 3, Columna 1</td>
+                        <td>Fila 3, Columna 2</td>
+                        <td>Fila 3, Columna 3</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+
+        </p>
+    </section>
+
+    <section id="tournament">
+        <h3>Tabla de Posiciones</h3>
+        <h4>En esta sección encontrarás la Tabla de Posiciones con algunas estadísticas por equipos:</h4>
+        Zárate Basket<p></p>
+            Plantel:<p></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Posición</th>
+                        <th>Equipo</th>
+                        <th>Partidos Jugados</th>
+                        <th>Partidos Ganados</th>
+                        <th>Partidos Perdidos</th>
+                        <th>Puntos</th>
+                        <th>Promedio de Victorias</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                        <td>Fila 1, Columna 4</td>
+                        <td>Fila 1, Columna 5</td>
+                        <td>Fila 1, Columna 6</td>
+                        <td>Fila 1, Columna 7</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                        <td>Fila 1, Columna 4</td>
+                        <td>Fila 1, Columna 5</td>
+                        <td>Fila 1, Columna 6</td>
+                        <td>Fila 1, Columna 7</td>
+                    </tr>
+                    <tr>
+                        <td>Fila 1, Columna 1</td>
+                        <td>Fila 1, Columna 2</td>
+                        <td>Fila 1, Columna 3</td>
+                        <td>Fila 1, Columna 4</td>
+                        <td>Fila 1, Columna 5</td>
+                        <td>Fila 1, Columna 6</td>
+                        <td>Fila 1, Columna 7</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p></p>
+    </section>
+</body>
+</html>
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #FFCC00; /* Color de fondo del encabezado */
+    color: black; /* Color del texto */
+    padding: 100px;
+    text-align: center;
+    position: relative;
+}
+
+.header-img {
+    width: 100px; /* Tamaño de la imagen */
+    height: auto; /* Mantener la proporción de la imagen */
+    position: absolute;
+    top: 20px; /* Ajusta según sea necesario */
+    left: 20px; /* Ajusta según sea necesario */
+}
+
+.header-text {
+    margin-top: 20px; /* Ajusta el margen superior para que el texto no se superponga con la imagen */
+}
+
+.header-title {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.header-subtitle {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.subheader {
+    background-color: #E31A40; /* Color de fondo del subencabezado */
+    padding: 20px 0;
+}
+
+.subheader-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.subheader-item {
+    display: block;
+    color: white; /* Color del texto del subencabezado */
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.subheader-item:hover {
+    background-color: grey; /* Color de fondo cuando se pasa el mouse por encima */
+}
+
+.section {
+    padding: 20px;
+    margin: 0 10px;
+}
+
+.section:nth-of-type(even) {
+    background-color: #f4f4f4; /* Fondo alternativo para secciones pares */
+}
